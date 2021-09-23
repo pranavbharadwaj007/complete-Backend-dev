@@ -1,2 +1,7 @@
-# complete-Backend-dev
-In this repo i will be implementing all servers, api creations, JWT auth , Mongo and sql with node with notes ans study materials.
+# complete-Backend-dev with node.js
+### Express server
+### JWT auth
+### Data base with sql and mongo
+### API testing
+### Study material for backend interviews
+
